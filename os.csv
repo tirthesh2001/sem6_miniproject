@@ -1,0 +1,63 @@
+Questions,Difficulty,Category
+What is the command used to check the running Splunk processes on Unix/Linux?,1,OS
+What is Dispatch Directory?,2,OS
+What happens if you try to run a Hadoop job with an output directory that is already present?,2,OS
+What file contains configuration for data directory?,2,OS
+How can we see only top 15 records from the student.txt out of 100 records in the HDFS directory?,3,OS
+"Can we run UNIX shell commands from Hive? Can Hive queries be executed from script files? If yes, how? Give an example.",1,OS
+How can you access a restricted file system in Qlik Sense?,3,OS
+"A company's web application is using multiple Linux Amazon EC2 instances and storing data on Amazon EBS volumes. The company is looking for a solution to increase the resiliency of the application in case of a failure and to provide storage that complies with atomicity, consistency, isolation, and durability (ACID). What should a solutions architect do to meet these requirements?",3,OS
+What is the concept of sudo in Linux?,1,OS
+What are the prerequisites to install Ansible 2.8 on Linux?,2,OS
+What is Azure Active Directory (Azure AD)?,2,OS
+How to export users from Azure Active Directory?,3,OS
+Create a Virtual Machine with Azure CLI.,3,OS
+You have an Azure subscription that contains an Azure Log Analytics workspace. You have a resource group that contains 100 virtual machines. The virtual machines run Linux. You need to collect events from the virtual machines to the log analytics workspace. Which type of data source should be configured in the workspace?,2,OS
+You have an Azure subscription that contains 100 virtual machines. You have a set of Pester tests in PowerShell that validate the virtual machine environment. You need to run the tests whenever there is an operating system update on the virtual machines. The solution must minimize implementation time and recurring costs. Which three resources should you use to implement the tests?,2,OS
+You have an Azure virtual machine named VM1 and an Azure Active Directory (Azure AD) tenant named adatum.com. VM1 has the following settings:,3,OS
+You have an Azure Kubernetes Service (AKS) cluster named Clus1 in a resource group named RG1. An administrator plans to manage Clus1 from an Azure AD-joined device. You need to ensure that the administrator can deploy the YAML application manifest file for a container application. You install the Azure CLI on the device. Which command should you run next?,1,OS
+What is Git Bash?,1,OS
+How are the variables like $ operating system set?,3,OS
+Which protocol does Ansible use to communicate with Linux and Windows?,1,OS
+What's a denial of service (DOS) attack and what are the common forms?,2,OS
+Explain how you can start the R commander GUI.,3,OS
+Can you use MySQL with Linux operating system?,1,OS
+How can two Android applications share the same Linux user ID and the VM?,2,OS
+How can we move an old file into the moveChunk directory?,1,OS
+Which operating system is supported by HBase?,3,OS
+What is the most common file system of HBase?,2,OS
+What is Linux?,1,OS
+Compare Linux with Windows.,3,OS
+What are the components of the Linux system?,3,OS
+Name a service that you should disable (which acts both as web and FTP servers) on a Linux server.,3,OS
+How to check memory stats and CPU stats as a Linux Admin?,2,OS
+What are the different modes of Network Bonding in Linux?,3,OS
+Do you know the Maximum length (in bytes) of the filename in Linux?,3,OS
+What are the two different kinds of Linux User Modes?,1,OS
+Check out this video on Linux Shell Tutorial:,3,OS
+Explain the features of the Linux system?,1,OS
+Why is Linux regarded as a more secure operating system than other operating systems?,2,OS
+How can you enhance the security of the password file in Linux?,3,OS
+What are the three standard streams in Linux?,2,OS
+What command can you use to make a tape archive file of /home directory and send it to the /dev/tape device?,3,OS
+What is CLI? ,2,OS
+What is GUI?,3,OS
+"Suppose, your FTP Server is hacked and the entire server needs to be restored. How would you restore the original kernel system files?",2,OS
+Why should you avoid Telnet to administer a Linux system remotely?,2,OS
+Differentiate between Linux and Unix,1,OS
+Name the four Configuration Management Tools used in UNIX-like operating systems.,3,OS
+Mention the difference between BASH and DOS,1,OS
+Explain various file permissions in Linux? ,2,OS
+"Can we convert a Linux computer into a router in order to enable multiple machines to work on the same Internet connection? If yes, how?",1,OS
+"In Linux, how would you change the window manager?",1,OS
+Mention various Linux directory commands,3,OS
+How are shadow passwords given in Linux?,3,OS
+List out some Linux distributors?,2,OS
+What do you know about Linux Shell and its types?,3,OS
+What shell does a Linux Administrator assign to a POP3 mail-only account?,3,OS
+What is YUM?,2,OS
+Explain the /proc file system?,2,OS
+"In Linux, how can I figure out where a file is stored?",1,OS
+How would you create an ext4 file system?,1,OS
+"In Linux, how do you stop a running process?",1,OS
+Explain Angular CLI.,3,OS

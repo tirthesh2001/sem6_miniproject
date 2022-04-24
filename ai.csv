@@ -1,0 +1,111 @@
+Questions,Difficulty,Category
+What is the difference between Search Head Pooling and Search Head Clustering?,1,AI
+What is the difference between agglomerative and divisive hierarchical clustering?,1,AI
+What is logistic regression?,1,AI
+Define Poison regression.,2,AI
+What do you understand about linear regression?,1,AI
+What do you understand by logistic regression?,3,AI
+Explain the differences between supervised and unsupervised learning.,2,AI
+What is pruning in a decision tree algorithm?,3,AI
+What is entropy in a decision tree algorithm?,3,AI
+What information is gained in a decision tree algorithm?,3,AI
+What is Deep Learning?,3,AI
+What is an RNN (recurrent neural network)?,3,AI
+What do you understand by a decision tree?,1,AI
+How are Data Science and Machine Learning related to each other?,2,AI
+How to calculate the accuracy of a binary classification algorithm using its confusion matrix?,1,AI
+Explain how Machine Learning is different from Deep Learning.,1,AI
+"Implement simple linear regression in R on this ‘mtcars’ dataset, where the dependent variable is ‘mpg’ and the independent variable is ‘disp.’",1,AI
+Implement simple linear regression in Python on this ‘Boston’ dataset where the dependent variable is ‘medv’ and the independent variable is ‘lstat.’,1,AI
+Implement logistic regression on this ‘heart’ dataset in R where the dependent variable is ‘target’ and the independent variable is ‘age.’,3,AI
+Build a logistic regression model on the ‘customer_churn’ dataset in Python. The dependent variable is ‘Churn’ and the independent variable is ‘MonthlyCharges.’ Find the log_loss of the model.,1,AI
+"Build a decision tree model on ‘Iris’ dataset where the dependent variable is ‘Species,’ and all other columns are independent variables. Find the accuracy of the model built.",2,AI
+Write code to calculate the accuracy of a binary classification algorithm using its confusion matrix.,2,AI
+Write a function that when called with a confusion matrix for a binary classification model returns a dictionary with its precision and recall.,3,AI
+What are the assumptions required for linear regression?,1,AI
+What happens when some of the assumptions required for linear regression are violated?,1,AI
+How is it different from doing machine learning in R or SAS?,2,AI
+Mention some machine learning algorithms exposed by Mahout?,1,AI
+"What is the difference between inductive, deductive, and abductive Machine Learning?",2,AI
+List the different algorithm techniques in Machine Learning.,1,AI
+"Differentiate between supervised, unsupervised, and reinforcement learning.",1,AI
+Name a few Machine Learning algorithms you know.,2,AI
+What is perceptron in Machine Learning?,1,AI
+Is KNN different from K-means Clustering?,1,AI
+List the steps involved in Machine Learning.,2,AI
+What is regularization in Machine Learning?,3,AI
+List the applications of Machine Learning.,2,AI
+Can you name three feature selection techniques in Machine Learning?,1,AI
+List different methods for sequential supervised learning.,2,AI
+"Explain Machine Learning, Artificial Intelligence, and Deep Learning",3,AI
+What is Bias and Variance in Machine Learning?,2,AI
+What is Clustering in Machine Learning?,1,AI
+What is Linear Regression in Machine Learning?,1,AI
+What is a Decision Tree in Machine Learning?,1,AI
+What is Overfitting in Machine Learning and how can it be avoided?,3,AI
+What is Hypothesis in Machine Learning?,3,AI
+What are the differences between Deep Learning and Machine Learning?,3,AI
+What are the differences between Supervised and Unsupervised Machine Learning?,1,AI
+What is Bayes’s Theorem in Machine Learning?,2,AI
+What is PCA in Machine Learning?,1,AI
+What is Support Vector Machine (SVM) in Machine Learning?,3,AI
+What is Cross-validation in Machine Learning?,1,AI
+What is Entropy in Machine Learning?,2,AI
+What is Epoch in Machine Learning?,1,AI
+What are the types of Machine Learning?,2,AI
+Differentiate between Classification and Regression in Machine Learning,1,AI
+How is the suitability of a Machine Learning Algorithm determined for a particular problem?,1,AI
+When should Classification be used over Regression?,2,AI
+Explain Logistic Regression,3,AI
+Explain the difference between KNN and K-means Clustering,2,AI
+"In Machine Learning, for how many classes can Logistic Regression be used?",2,AI
+What are the Two Main Types of Filtering in Machine Learning? Explain.,1,AI
+Executing a binary classification tree algorithm is a simple task. But how does tree splitting take place? How does the tree determine which variable to break at the root node and which at its child nodes?,3,AI
+How to Implement the KNN Classification Algorithm?,3,AI
+"
+Find Online Machine Learning course in Other Regions",1,AI
+: What is Hierarchical Clustering?,1,AI
+: What are some of the properties of clustering algorithms?,1,AI
+Watch this video on Natural Language Processing Interview Questions for Beginners:,3,AI
+What do you understand by Natural Language Processing?,2,AI
+If you want to learn Natural Language Processing then go through the following tutorial:,3,AI
+List any two real-life applications of Natural Language Processing.,2,AI
+List the components of Natural Language Processing.,3,AI
+What is Parsing in the context of NLP?,1,AI
+Define the terminology in NLP.,1,AI
+Explain Dependency Parsing in NLP.,2,AI
+What is the difference between NLP and NLU?,1,AI
+What is the difference between NLP and CI?,2,AI
+"What are unigrams, bigrams, trigrams, and n-grams in NLP?",2,AI
+What are the steps involved in solving an NLP problem?,2,AI
+What is Feature Extraction in NLP?,3,AI
+What is F1 score in NLP?,1,AI
+"Check out our Deep Learning Interview Questions And Answers on YouTube, designed especially for beginners:",2,AI
+What is the difference between Machine Learning and Deep Learning?,2,AI
+How is Deep Learning better than Machine Learning?,3,AI
+What are some of the most used applications of Deep Learning?,3,AI
+Why is Fourier transform used in Deep Learning?,2,AI
+What are the steps involved in training a perception in Deep Learning?,2,AI
+What are some of the Deep Learning frameworks or tools that you have used?,1,AI
+What is data normalization in Deep Learning?,2,AI
+What are hyperparameters in Deep Learning?,2,AI
+What is the meaning of dropout in Deep Learning?,2,AI
+What is the meaning of model capacity in Deep Learning?,1,AI
+What is a computational graph in Deep Learning?,1,AI
+What is an RNN in Deep Learning?,3,AI
+What is exploding gradient descent in Deep Learning?,3,AI
+What are some of the limitations of Deep Learning?,3,AI
+Why is the Leaky ReLU function used in Deep Learning?,2,AI
+What are some of the examples of supervised learning algorithms in Deep Learning?,3,AI
+What are some of the examples of unsupervised learning algorithms in Deep Learning?,2,AI
+What are some of the applications of transfer learning in Deep Learning?,3,AI
+How is the transformer architecture better than RNNs in Deep Learning?,3,AI
+What is the meaning of bagging and boosting in Deep Learning?,1,AI
+A regression analysis between apples (y) and oranges (x) resulted in the following least-squares line: y = 100 + 2x. What is the implication if oranges are increased by 1?,3,AI
+"In a scatter diagram, what is the line that is drawn above or below the regression line called?",1,AI
+What are some of the low and high-bias Machine Learning algorithms?,1,AI
+What is regression?,3,AI
+What is classification?,1,AI
+Is there any difference between retesting and regression testing?,1,AI
+"
+Find Online Machine Learning course in Other Regions	",2,AI
